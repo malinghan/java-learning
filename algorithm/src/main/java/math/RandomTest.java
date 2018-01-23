@@ -40,10 +40,5 @@ public class RandomTest {
         for (int i = 0; i < 10; i++) {
             System.out.print(ran2.nextInt(10) + " ");
         }
-
-
-
-
-
     }
 }
