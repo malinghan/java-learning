@@ -1,8 +1,9 @@
-package multithread.base.c;
+package multithread.base.example01;
 
 /**
  * Created by mlh on 2017/12/19.
  */
+
 public class MyThread extends   Thread {
     public MyThread(){
         System.out.println("构造方法打印:"+Thread.currentThread().getName());

@@ -4,7 +4,7 @@ package multithread.synchronize.test2;
  * Created by mlh on 2017/12/22.
  */
 public class HasSelfPrivateNum {
-    private  int num = 0;
+    private  int num = 0;//实例变量
     public void addI(String username){
         try {
             if (username.equals("a")) {

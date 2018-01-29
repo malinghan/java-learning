@@ -1,4 +1,4 @@
-package multithread.synchronize.test10;
+package multithread.synchronize.test13;
 
 /**
  * @author: linghan.ma

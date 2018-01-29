@@ -2,26 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="babf2f1c-95e1-43fd-9f6f-26bc136a9443" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogs/work/wiki/接口设计.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogs/面试整理.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/container/profiles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other/other.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other/src/main/java/My.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other/src/main/java/TestString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/工作学习计划.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_unknown.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example03/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/ObjectService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/ThreadA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/ThreadB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/CommonUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/MyThread1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/MyThread2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/Task.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/Task.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/TaskB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13/ObjectService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13/ThreadA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13/ThreadB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test15/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test16/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test17/MyOneList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test17/MyService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test18/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test19/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test20/DeathThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test20/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test21/OutClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test21/PublicClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test21/PublicStaticClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/第三章-线程间通信.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/第二章-对象及变量的并发访问.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/第五章-定时器Timer.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/第六~七章-线程拾遗补漏.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/第四章-Lock.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/InterruptExceptionThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/InterruptedThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/a/MyThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/a/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/b/NotShareDataThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/b/SharedThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/c/MyThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/c/Run.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/example01.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/sameNum/MyThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/useReturnInterrupt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/multithread/多线程编程学习笔记.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/readme.md" afterPath="$PROJECT_DIR$/multithread/第一章-多线程基础知识.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/InterruptExceptionThread.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example06/InterruptExceptionThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/InterruptedThread.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example05/InterruptedThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/a/MyThread.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example00/MyThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/a/Test.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example00/Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/b/NotShareDataThread.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example02/NotShareDataThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/b/SharedThread.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example02/SharedThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/c/MyThread.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example01/MyThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/c/Run.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example01/Run.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example01.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example04.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/sameNum/MyThread.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example03/MyThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/useReturnInterrupt.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example06/useReturnInterrupt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/MyObject.class" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/MyObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/Run.class" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/Run.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm/src/main/java/math/RandomTest.java" afterPath="$PROJECT_DIR$/algorithm/src/main/java/math/RandomTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogs/面试要求.md" afterPath="$PROJECT_DIR$/blogs/面试要求.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/designpattern/designpattern.iml" afterPath="$PROJECT_DIR$/designpattern/designpattern.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multithread/multithread.iml" afterPath="$PROJECT_DIR$/multithread/multithread.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test2/HasSelfPrivateNum.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test2/HasSelfPrivateNum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test4/MyObject.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test4/MyObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test4/Run.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test4/Run.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,62 +104,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CountOfLoad.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/move/CountOfLoad.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-              <folding />
+      <file leaf-file-name="第二章-对象及变量的并发访问.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/multithread/第二章-对象及变量的并发访问.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="266">
+                <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountOfPath.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/move/CountOfPath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Point.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/move/Point.java">
+      <file leaf-file-name="OutClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test21/OutClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/designpattern/src/main/java/abstractfactory/AbstractFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdvancedMediaPlayer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/designpattern/src/main/java/adapter/AdvancedMediaPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AudioPlayer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/designpattern/src/main/java/adapter/AudioPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
+              <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
+              <folding>
+                <element signature="e#1938#1939#0" expanded="true" />
+                <element signature="e#1985#1986#0" expanded="true" />
+                <element signature="e#2098#2099#0" expanded="true" />
+                <element signature="e#2145#2146#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,48 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/composite_entitty/Client.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/composite_entitty/CompositeEntityPatternDemo.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/dao/Student.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/dao/StudentDao.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/dao/StudentDaoImpl.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/dao/DaoPatternDemo.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/front_controller/HomeView.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/front_controller/StudentView.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/front_controller/FrontController.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/front_controller/Dispatcher.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/intercepting_filter/Filter.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/intercepting_filter/AuthenticationFilter.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/intercepting_filter/DebugFilter.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/intercepting_filter/Target.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/intercepting_filter/FilterChain.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/intercepting_filter/FilterManager.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/intercepting_filter/Client.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/intercepting_filter/InterceptingFilterDemo.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/service_locator/InitialContext.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/service_locator/Cache.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/service_locator/Service.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/service_locator/Service1.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/service_locator/Service2.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/service_locator/ServiceLocator.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/service_locator/ServiceLocatorPatternDemo.java" />
-        <option value="$PROJECT_DIR$/designpattern/J2EE设计模式.md" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/transfer_object/StudentVO.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/transfer_object/StudentBO.java" />
-        <option value="$PROJECT_DIR$/designpattern/src/main/java/transfer_object/TransferObjectPatternDemo.java" />
-        <option value="$PROJECT_DIR$/designpattern/1.总体介绍.md" />
-        <option value="$PROJECT_DIR$/designpattern/4行为型模式.md" />
-        <option value="$PROJECT_DIR$/multithread/多线程编程学习笔记" />
-        <option value="$PROJECT_DIR$/blogs/RabbitMQ VS kafka.MD" />
-        <option value="$PROJECT_DIR$/importnew/大型网站系统与 Java 中间件实践.md" />
-        <option value="$PROJECT_DIR$/blogs/深入理解Java的接口和抽象类.md" />
-        <option value="$PROJECT_DIR$/README.MD" />
-        <option value="$PROJECT_DIR$/blogs/书籍汇总.md" />
-        <option value="$PROJECT_DIR$/importnew/src/main/java/Test.java" />
-        <option value="$PROJECT_DIR$/importnew/src/main/java/arraylist/Test2.java" />
-        <option value="$PROJECT_DIR$/importnew/src/main/java/arraylist/Test.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/move/CountOfPath.java" />
-        <option value="$PROJECT_DIR$/blogs/面试要求.md" />
         <option value="$PROJECT_DIR$/blogs/面试整理.md" />
         <option value="$PROJECT_DIR$/blogs/work/wiki/接口设计.md" />
         <option value="$PROJECT_DIR$/other/pom.xml" />
@@ -199,6 +171,48 @@
         <option value="$PROJECT_DIR$/algorithm/src/main/java/algs4/BinarySearch.java" />
         <option value="$PROJECT_DIR$/container/profiles.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/multithread/多线程编程学习笔记.md" />
+        <option value="$PROJECT_DIR$/multithread/readme.md" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example02/SharedThread.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example03/MyThread.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example03/Main.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example04.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example05/InterruptedThread.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example01/MyThread.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example01/Run.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example06/InterruptExceptionThread.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/base/example06/useReturnInterrupt.java" />
+        <option value="$PROJECT_DIR$/multithread/第一章-多线程基础知识.md" />
+        <option value="$PROJECT_DIR$/multithread/第三章-线程间通信.md" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test2/HasSelfPrivateNum.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test4/Run.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test4/MyObject.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/ObjectService.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/ThreadA.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/ThreadB.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/Run.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/CommonUtils.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/Task.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/Run.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/TaskA.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/TaskB.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/Task.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13/ObjectService.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13/ThreadA.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13/ThreadB.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test14/Parse.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test15/Service.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test16/Service.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test17/MyOneList.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test17/MyService.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test18/Service.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test19/Service.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test20/Service.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test20/DeathThread.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test21/PublicStaticClass.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test21/PublicClass.java" />
+        <option value="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test21/OutClass.java" />
+        <option value="$PROJECT_DIR$/multithread/第二章-对象及变量的并发访问.md" />
       </list>
     </option>
   </component>
@@ -405,7 +419,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -424,7 +440,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java-learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -434,33 +472,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="designpattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designpattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="rt.jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -474,19 +494,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="designpattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="rt.jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -494,7 +510,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="business_delegate" />
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-learning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -508,23 +534,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="designpattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adapter" />
+              <option name="myItemId" value="multithread" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -538,71 +548,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="container" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wiki" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
+              <option name="myItemId" value="multithread" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -618,7 +564,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="move" />
+              <option name="myItemId" value="multithread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="synchronize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test21" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -632,7 +586,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
+              <option name="myItemId" value="multithread" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -648,18 +602,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="math" />
+              <option name="myItemId" value="multithread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="synchronize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multithread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multithread" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="MarkdownNavigator.Settings.Application" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -668,51 +654,37 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="SearchEverywhereHistoryKey" value="plugiin&#9;PSI&#9;JAVA://sun.plugin.net.proxy.PluginProxyInfo" />
+    <property name="SearchEverywhereHistoryKey" value="java.lang.Thr&#9;PSI&#9;JAVA://java.lang.Thread&#10;markdown&#9;ACTION&#9;Markdown.Toolbar.Right&#10;plugiin&#9;PSI&#9;JAVA://sun.plugin.net.proxy.PluginProxyInfo" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13" />
+      <recent name="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11" />
+      <recent name="C:\Users\mlh\IdeaProjects\java-learning\designpattern\src\main\java\proxy\example2" />
+      <recent name="C:\Users\mlh\IdeaProjects\java-learning" />
+      <recent name="C:\Users\mlh\IdeaProjects\java-learning\designpattern\src\main\java\abstractfactory" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="multithread.synchronize.test16" />
+      <recent name="multithread.synchronize.test5" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/blogs/work/wiki" />
       <recent name="$PROJECT_DIR$/blogs/work" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="multithread.synchronize.test5" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning\designpattern\src\main\java\proxy\example2" />
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning" />
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning\designpattern\src\main\java\abstractfactory" />
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning\multithread\src\main\java\multithread\test8" />
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning\multithread\src\main\java\multithread\synchronize\test7" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.TestString">
-    <configuration default="false" name="MementoPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.OutClass">
+    <configuration default="false" name="Service (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="memento.*" />
+          <option name="PATTERN" value="multithread.synchronize.test19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="memento.MementoPatternDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="designpattern" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MyThread" />
+      <option name="MAIN_CLASS_NAME" value="multithread.synchronize.test19.Service" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -725,14 +697,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Service (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="arraylist.*" />
+          <option name="PATTERN" value="multithread.synchronize.test20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="arraylist.Test" />
+      <option name="MAIN_CLASS_NAME" value="multithread.synchronize.test20.Service" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -741,33 +713,38 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="importnew" />
+      <module name="multithread" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="DeathThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="arraylist.*" />
+          <option name="PATTERN" value="multithread.synchronize.test20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="arraylist.Test2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="MAIN_CLASS_NAME" value="multithread.synchronize.test20.DeathThread" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="importnew" />
+      <module name="multithread" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TestString" />
+    <configuration default="false" name="PublicClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="multithread.synchronize.test21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="multithread.synchronize.test21.PublicClass" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -776,7 +753,27 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="other" />
+      <module name="multithread" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="OutClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="multithread.synchronize.test21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="multithread.synchronize.test21.OutClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="multithread" />
       <envs />
       <method />
     </configuration>
@@ -1207,19 +1204,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MementoPatternDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MyThread" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestString" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Service (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Service (4)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DeathThread" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PublicClass" />
+      <item index="4" class="java.lang.String" itemvalue="Application.OutClass" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestString" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MyThread" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MementoPatternDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.OutClass" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PublicClass" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DeathThread" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Service (4)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Service (3)" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -1302,11 +1299,20 @@
       <workItem from="1515867010779" duration="3722000" />
       <workItem from="1516017491778" duration="1977000" />
       <workItem from="1516203458208" duration="239000" />
+      <workItem from="1516679333437" duration="1082000" />
+      <workItem from="1516687835208" duration="519000" />
+      <workItem from="1516689093101" duration="811000" />
+      <workItem from="1516690120066" duration="1302000" />
+      <workItem from="1516699824360" duration="14640000" />
+      <workItem from="1516779396532" duration="763000" />
+      <workItem from="1516874768226" duration="7429000" />
+      <workItem from="1516932851111" duration="6613000" />
+      <workItem from="1517191593140" duration="1953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197896000" />
+    <option name="totallyTimeSpent" value="233008000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1323,17 +1329,18 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3273906" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.503231" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3234375" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.49676898" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.49676898" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33711508" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10048623" sideWeight="0.49676898" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22940226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30048466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875606" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10554371" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1353,12 +1360,11 @@
       <window_info id="MaxCompute Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1459,349 +1465,384 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/multithread/多线程编程学习笔记.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designpattern/1.总体介绍.md" />
-    <entry file="file://$PROJECT_DIR$/designpattern/J2EE设计模式.md" />
-    <entry file="file://$PROJECT_DIR$/importnew/pom.xml">
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test4/MyObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="188">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/importnew/src/main/java/Test.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/System.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Arrays.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collection.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/List.java" />
-    <entry file="file://$PROJECT_DIR$/blogs/Spring面试常见问题.md" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Vector.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/AbstractList.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Set.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/HashMap.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/HashSet.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Integer.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Object.java" />
-    <entry file="file://$PROJECT_DIR$/importnew/大型网站系统与 Java 中间件实践.md" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/String.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/ArrayList.java" />
-    <entry file="file://$PROJECT_DIR$/importnew/src/main/java/arraylist/Test2.java">
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test5/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="157">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/importnew/src/main/java/arraylist/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogs/书籍汇总.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogs/深入理解Java的接口和抽象类.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogs/RabbitMQ VS kafka.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/src/main/java/My.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/src/main/java/TestString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/plugin.jar!/sun/plugin/net/proxy/PluginProxyInfo.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/algs4/BinarySearch.java" />
-    <entry file="file://$PROJECT_DIR$/工作学习计划.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-30">
-            <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/container/profiles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogs/面试要求.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogs/work/wiki/接口设计.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogs/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/container/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogs/面试整理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/move/CountOfPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/move/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designpattern/src/main/java/abstractfactory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designpattern/4行为型模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1515381332588" expanded="true" signature="11596:12036" ph="{...}" />
-              <marker date="1515381332588" expanded="false" signature="11715:11726" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="11751:11761" ph=" }" />
-              <marker date="1515381332588" expanded="false" signature="11831:11843" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="11859:11869" ph=" }" />
-              <marker date="1515381332588" expanded="false" signature="11912:11927" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="11944:11954" ph=" }" />
-              <marker date="1515381332588" expanded="false" signature="11987:12002" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="12020:12030" ph=" }" />
-              <marker date="1515381332588" expanded="true" signature="12102:12379" ph="{...}" />
-              <marker date="1515381332588" expanded="false" signature="12170:12181" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="12202:12212" ph=" }" />
-              <marker date="1515381332588" expanded="false" signature="12255:12270" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="12287:12297" ph=" }" />
-              <marker date="1515381332588" expanded="false" signature="12330:12345" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="12363:12373" ph=" }" />
-              <marker date="1515381332588" expanded="true" signature="12487:12699" ph="{...}" />
-              <marker date="1515381332588" expanded="false" signature="12558:12573" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="12588:12598" ph=" }" />
-              <marker date="1515381332588" expanded="false" signature="12647:12662" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="12683:12693" ph=" }" />
-              <marker date="1515381332588" expanded="true" signature="14683:15095" ph="{...}" />
-              <marker date="1515381332588" expanded="false" signature="14857:14869" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="14893:14900" ph=" }" />
-              <marker date="1515381332588" expanded="false" signature="14981:14993" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="15020:15027" ph=" }" />
-              <marker date="1515381332588" expanded="true" signature="15208:15413" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="15258:15406" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="15439:15496" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="15632:15723" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="15682:15716" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="23549:23764" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="23722:23762" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="23804:23995" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="23859:23899" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="23953:23993" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="24015:24059" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="24103:24244" ph="{...}" />
-              <marker date="1515381332588" expanded="false" signature="24144:24159" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="24179:24185" ph=" }" />
-              <marker date="1515381332588" expanded="true" signature="24220:24242" ph="{...}" />
-              <marker date="1515381332588" expanded="true" signature="24268:24728" ph="{...}" />
-              <marker date="1515381332588" expanded="false" signature="24321:24330" ph="&lt;~&gt;" />
-              <marker date="1515381332588" expanded="true" signature="24396:24552" ph="{...}" />
-              <marker date="1515381332588" expanded="false" signature="24597:24612" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="24630:24636" ph=" }" />
-              <marker date="1515381332588" expanded="false" signature="24684:24699" ph=" { " />
-              <marker date="1515381332588" expanded="false" signature="24720:24726" ph=" }" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/move/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designpattern/designpattern.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designpattern/src/main/java/business_delegate/BusinessDelegate.java">
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test5/PublicVar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/designpattern/src/main/java/adapter/AdvancedMediaPlayer.java">
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test5/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/designpattern/src/main/java/adapter/AudioPlayer.java">
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test6/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test6/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test6/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test7/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test8/MyThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test8/Sub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test8/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test7/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test7/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/math/RandomTest.java">
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test7/Sub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test9/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="352" column="30" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/move/CountOfLoad.java">
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/ObjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test10/ThreadB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test9/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/MyThread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test11/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test13/ObjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test12/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test9/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test14/Parse.java" />
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test15/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test16/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test17/MyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test17/MyOneList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test18/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="744" column="0" selection-start-line="744" selection-start-column="0" selection-end-line="744" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/第三章-线程间通信.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test20/DeathThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test19/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test20/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test21/PublicClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test21/PublicStaticClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="63" column="76" selection-start-line="63" selection-start-column="76" selection-end-line="63" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test21/OutClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
+          <folding>
+            <element signature="e#1938#1939#0" expanded="true" />
+            <element signature="e#1985#1986#0" expanded="true" />
+            <element signature="e#2098#2099#0" expanded="true" />
+            <element signature="e#2145#2146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithread/第二章-对象及变量的并发访问.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="266">
+            <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>

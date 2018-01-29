@@ -1,4 +1,6 @@
-package multithread.synchronize.test15;
+package multithread.synchronize.test16;
+
+import multithread.synchronize.test1.ThreadA;
 
 /**
  * @author: linghan.ma
@@ -10,40 +12,43 @@ public class Service {
     private String passwordParam;
     private String anyString = new String();
 
-    public void setUsernamePassword(String username, String password) {
+    public void a(String username, String password) {
         try {
             synchronized (anyString) {
-                System.out.println(Thread.currentThread().getName() + " " + System.currentTimeMillis() + "进入同步块");
+                System.out.println("进入同步块 a");
                 usernameParam = username;
                 Thread.sleep(3000);
                 passwordParam = password;
-                System.out.println(Thread.currentThread().getName() + " " + System.currentTimeMillis() + "出去同步块");
+                System.out.println("出去同步块 a");
             }
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
     }
 
-    public static void main(String[] args) {
+    synchronized void b(){
+        System.out.println("b begin ");
+        System.out.println("b end");
+    }
 
+    public static void main(String[] args) {
+        Service s=new Service();
         Runnable r=new Runnable() {
-            Service s=new Service();
             @Override
             public void run() {
-                System.out.println("r");
-                s.setUsernamePassword("aaa","aaaaa");
+                s.a("aaa","aaaaa");
             }
         };
         Runnable r2=new Runnable() {
-            Service s=new Service();
             @Override
             public void run() {
-                System.out.println("r2");
-                s.setUsernamePassword("bbb","bbbbb");
+                s.b();
             }
         };
-        r.run();
-        r2.run();
+        Thread a=new Thread(r);
+        Thread b=new Thread(r2);
+       a.start();
+        b.start();
 
     }
 }

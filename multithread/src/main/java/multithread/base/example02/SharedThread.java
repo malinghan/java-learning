@@ -1,10 +1,10 @@
-package multithread.base.b;
+package multithread.base.example02;
 
 /**
  * Created by mlh on 2017/12/18.
  */
 /*
-  这算是多线程访问同一个对象。只生成了一个SharedThread线程实例,生成了abcde子线程
+  这算是多线程访问同一个对象。只生成了一个SharedThread线程实例,生成了abcde线程去调用SharedThread线程
  */
 public class SharedThread extends  Thread {
     private int count = 5;

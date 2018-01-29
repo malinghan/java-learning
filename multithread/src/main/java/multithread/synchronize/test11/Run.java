@@ -1,4 +1,4 @@
-package multithread.synchronize.test9;
+package multithread.synchronize.test11;
 
 /**
  * Created by mlh on 2017/12/23.
@@ -16,13 +16,13 @@ public class Run {
         }catch (Exception e){
             e.printStackTrace();
         }
-        long beginTime=CommonUtils.beginTime1;
-        if(CommonUtils.beginTime2<CommonUtils.beginTime1){
-            beginTime=CommonUtils.beginTime2;
+        long beginTime= CommonUtils.beginTime1;
+        if(CommonUtils.beginTime2< CommonUtils.beginTime1){
+            beginTime= CommonUtils.beginTime2;
         }
-        long endTime=CommonUtils.endTime1;
-        if(CommonUtils.endTime2>CommonUtils.endTime1){
-            endTime=CommonUtils.endTime2;
+        long endTime= CommonUtils.endTime1;
+        if(CommonUtils.endTime2> CommonUtils.endTime1){
+            endTime= CommonUtils.endTime2;
         }
         System.out.println((endTime-beginTime)/1000);
     }

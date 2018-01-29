@@ -1,4 +1,4 @@
-package multithread.synchronize.test10;
+package multithread.synchronize.test13;
 
 /**
  * @author: linghan.ma
@@ -15,6 +15,6 @@ public class ThreadA extends Thread {
     @Override
     public void run() {
         super.run();
-        objectService.serviceMethod();
+        objectService.serviceMethodA();
     }
 }

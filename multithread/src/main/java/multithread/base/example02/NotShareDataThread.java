@@ -1,4 +1,4 @@
-package multithread.base.b;
+package multithread.base.example02;
 
 
 /**

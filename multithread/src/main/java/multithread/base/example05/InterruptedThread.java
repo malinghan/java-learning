@@ -1,4 +1,4 @@
-package multithread.base;
+package multithread.base.example05;
 
 /**
  * Created by mlh on 2017/12/22.

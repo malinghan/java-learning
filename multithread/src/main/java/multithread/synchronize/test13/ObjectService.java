@@ -1,4 +1,4 @@
-package multithread.synchronize.test10;
+package multithread.synchronize.test13;
 
 /**
  * @author: linghan.ma
@@ -6,15 +6,21 @@ package multithread.synchronize.test10;
  * @description:
  */
 public class ObjectService {
-    public void serviceMethod(){
+    public void serviceMethodA(){
         try{
             synchronized (this){
-                System.out.println("begin time= "+ System.currentTimeMillis());
+                System.out.println("A egin time= "+ System.currentTimeMillis());
                 Thread.sleep(2000);
-                System.out.println("end time="+System.currentTimeMillis());
+                System.out.println("A end time="+System.currentTimeMillis());
             }
         }catch (InterruptedException e){
             e.printStackTrace();
+        }
+    }
+    public void serviceMethodB(){
+        synchronized (this){
+            System.out.println("B begin "+System.currentTimeMillis());
+            System.out.println("B end "+System.currentTimeMillis());
         }
     }
 }

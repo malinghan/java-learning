@@ -1,17 +1,21 @@
-package multithread.base;
+package multithread.base.example06;
 
 /**
  * Created by mlh on 2017/12/22.
+ */
+
+/**
+ * 中断线程：interrupt
  */
 public class InterruptExceptionThread extends  Thread {
     @Override
     public void run() {
         super.run();
         try{
-            for (int i = 0; i < 500000; i++) {
+            for (int i = 0; i < 50000; i++) {
                 if(this.isInterrupted()){
                     System.out.println("already end");
-                    throw new   InterruptedException();
+                    throw new  InterruptedException();
                 }
                 System.out.println("i="+i);
             }

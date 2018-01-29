@@ -1,4 +1,4 @@
-package multithread.base;
+package multithread.base.example06;
 
 /**
  * Created by mlh on 2017/12/22.
@@ -9,7 +9,7 @@ public class useReturnInterrupt extends  Thread {
         while (true) {
             if (this.isInterrupted()) {
                 System.out.println("停止了");
-                return;
+                return;//如果有这个标记就return退出
             }
             System.out.println("timer=" + System.currentTimeMillis());
         }
