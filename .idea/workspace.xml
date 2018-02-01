@@ -2,91 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="babf2f1c-95e1-43fd-9f6f-26bc136a9443" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/线程运行状态.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test01/MyList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test01/Run.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test01/ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test01/ThreadB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test02/MyList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test02/Run.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test02/Run2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test02/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test02/Test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test02/Test3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test02/ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test02/ThreadB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test03/Service.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test03/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test03/ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test03/ThreadB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test04/NotifyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test04/Service.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test04/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test04/ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test04/synNotifyMethodThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test05/Service.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test05/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test05/ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyall/NotifyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyall/Service.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyall/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyall/ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyall/ThreadB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyall/ThreadC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyone/NotifyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyone/Service.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyone/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyone/ThreadA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyone/ThreadB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test06/notifyone/ThreadC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test07/MyRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test08/MyRun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test09/Add.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test09/Run.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test09/Subtract.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test09/ThreadAdd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test09/ThreadSubtract.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test09/ValueObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test10/C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test10/P.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test10/Run.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test10/ThreadC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test10/ThreadP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test10/ValueObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test11/C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test11/P.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test11/Run.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test11/ThreadC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test11/ThreadP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test11/ValueObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test12/C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test12/C_Thread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test12/MyStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test12/P.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test12/P_Thread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test12/Run.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test13/C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test13/C_Thread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test13/MyStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test13/P.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test13/P_Thread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test13/Run.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test14/PipedInputStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test14/PipedOutputStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test23/MyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test24/AddCountThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test24/MyService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test24/MyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test25/Service.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/工作学习计划.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test22/线程的私有堆栈的副本.png" afterPath="$PROJECT_DIR$/image/线程的私有堆栈的副本.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test22/RunThread.class" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test22/RunThread.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test22/RunThread.java" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/synchronize/test22/RunThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multithread/第三章-线程间通信.md" afterPath="$PROJECT_DIR$/multithread/第三章-线程间通信.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multithread/第二章-对象及变量的并发访问.md" afterPath="$PROJECT_DIR$/multithread/第二章-对象及变量的并发访问.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multithread/第六~七章-线程拾遗补漏.md" afterPath="$PROJECT_DIR$/multithread/第六~七章-线程拾遗补漏.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -157,7 +73,7 @@
       <file leaf-file-name="PipedOutputStream.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test14/PipedOutputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="-105">
               <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
               <folding />
             </state>
@@ -551,158 +467,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multithread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multithread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multithread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multithread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multithread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="communicate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test14" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multithread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multithread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="communicate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wiki" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1380,12 +1144,12 @@
       <workItem from="1517285017961" duration="4501000" />
       <workItem from="1517311587903" duration="1912000" />
       <workItem from="1517368546339" duration="1107000" />
-      <workItem from="1517388442478" duration="12658000" />
+      <workItem from="1517388442478" duration="13002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273471000" />
+    <option name="totallyTimeSpent" value="273815000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1398,7 +1162,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1409,7 +1173,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.49676898" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33711508" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23176661" sideWeight="0.49676898" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23176661" sideWeight="0.49676898" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27705976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2041,7 +1805,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/multithread/src/main/java/multithread/communicate/test14/PipedOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="-105">
           <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding />
         </state>
