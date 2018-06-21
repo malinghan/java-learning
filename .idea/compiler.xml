@@ -30,7 +30,6 @@
         <module name="io" />
         <module name="jvm" />
         <module name="multithread" />
-        <module name="other" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
