@@ -84,3 +84,12 @@ JDK1.5 新增ReentrantLock，能实现synchronized的全部功能，还有更多
     static final class NonfairSync extends Sync
     static final class FairSync extends Sync
  ```
+ 
+### ReentrantReadWriteLock类
+
+- 读写锁:同一时刻，只允许一个Thread进行写入操作
+- ReentrantReadWriteLock类
+- 读读共享
+- 读写互斥
+- 写写互斥
+- 写读互斥
