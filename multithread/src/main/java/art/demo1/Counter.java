@@ -144,14 +144,11 @@ public class Counter {
         long start = System.currentTimeMillis();
         //100 1000*100
             for (int j = 0; j < 100; j++) {
-            Thread t = new Thread(new Runnable() {
-                @Override
-                public void run() {
+            Thread t = new Thread(() -> {
                     for (int i = 0; i < 1000; i++) {
                         cas.count();
                         cas.safeCount();
                     }
-                }
             });
 
             ts.add(t);
