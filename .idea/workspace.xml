@@ -5,16 +5,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="babf2f1c-95e1-43fd-9f6f-26bc136a9443" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/leetCode中多线程题目的解法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/a2022/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/a2022/FooBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/atomic/AtomicIntegerArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/atomic/AtomicIntegerFieldUpdaterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/atomic/AtomicIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/atomic/AtomicReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/blockingqueue/BlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/blockingqueue/MyArrayBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/blockingqueue/MyLinkedBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/deadlock/ReentryLockDeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/deadlock/SynchronizedDeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/deadlock/WaitNotifyDeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/exchanger/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/exchanger/FillAndEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/finaltest/FinalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/jmm/SynchronizedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1114/AtomicIntegerFoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1114/BlockingQueueFoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1114/CountDownLatchFoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1114/LockFoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1114/SemaphoreFoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1114/SynchronizedFoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1114/VolatileFoo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1115/CyclicBarrierFooBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1115/SemaphoreFooBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1115/SynchronizedFooBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1195/FooBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/leetcode/leetcode1195/FooBarSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/locks/BooleanLatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/locks/Mutex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/volatiles/VolatileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/volatiles/VolatileFeaturesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/src/main/java/com/someecho/volatiles/VolatileFeaturesExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/a2022/Foo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/a2022/FooBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/atomic/AtomicIntegerArrayTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/atomic/AtomicIntegerFieldUpdaterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/atomic/AtomicIntegerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/atomic/AtomicReferenceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/blockingqueue/BlockingQueueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/blockingqueue/MyArrayBlockingQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/blockingqueue/MyLinkedBlockingQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/deadlock/ReentryLockDeadLockDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/deadlock/SynchronizedDeadLockDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/deadlock/WaitNotifyDeadLockDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/exchanger/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/exchanger/FillAndEmpty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/jmm/SynchronizedExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1114/AtomicIntegerFoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1114/BlockingQueueFoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1114/CountDownLatchFoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1114/LockFoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1114/SemaphoreFoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1114/SynchronizedFoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1114/VolatileFoo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1115/CyclicBarrierFooBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1115/SemaphoreFooBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1115/SynchronizedFooBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1195/FooBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/leetcode/leetcode1195/FooBarSolution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/locks/BooleanLatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/locks/Mutex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/volatiles/VolatileDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/volatiles/VolatileFeaturesExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/target/classes/com/someecho/volatiles/VolatileFeaturesExample2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/threads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threads01/多线程练习.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/121212" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2121" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/212121" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22121" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curl" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -565,6 +625,7 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -572,19 +633,19 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\mlh\IdeaProjects\java-learning\designpattern\src\main\java\proxy\example2" />
+      <recent name="C:\Users\mlh\IdeaProjects\java-learning" />
+      <recent name="C:\Users\mlh\IdeaProjects\java-learning\designpattern\src\main\java\abstractfactory" />
+      <recent name="C:\Users\mlh\IdeaProjects\java-learning\multithread\src\main\java\multithread\test8" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/blogs/work/wiki" />
       <recent name="$PROJECT_DIR$/blogs/work" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="multithread.synchronize.test5" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning\designpattern\src\main\java\proxy\example2" />
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning" />
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning\designpattern\src\main\java\abstractfactory" />
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning\multithread\src\main\java\multithread\test8" />
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning\multithread\src\main\java\multithread\synchronize\test7" />
     </key>
   </component>
   <component name="RunManager" selected="Application.RandomTest">
@@ -1012,7 +1073,7 @@
       <workItem from="1515867010779" duration="3722000" />
       <workItem from="1516017491778" duration="1977000" />
       <workItem from="1516203458208" duration="239000" />
-      <workItem from="1708878832608" duration="184000" />
+      <workItem from="1708878832608" duration="1145000" />
     </task>
     <servers />
   </component>
