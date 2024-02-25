@@ -1,0 +1,2 @@
+invoke  com.xrxs.recruitment.es.rpc.client.service.IRpcResumeQueryService.getResumeInfosByParams({})
+{"companyId":"8f64fc4fc5084be28fef1eadd1651220","globalSearch":0,"page":0,"pageSize":2147483647})

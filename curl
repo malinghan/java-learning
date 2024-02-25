@@ -1,0 +1,4 @@
+curl --user elastic:Qwer1234 -XOST http://es-cn-45911nmjo001hhqbw.public.elasticsearch.aliyuncs.com:9200
+
+
+curl --user elastic:changme -XPOST 'localhost:9200/twitter/tweet'
