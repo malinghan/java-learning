@@ -579,7 +579,7 @@
       <recent name="multithread.synchronize.test5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomTest">
+  <component name="RunManager" selected="Application.AdapterPatternDemo">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -812,10 +812,16 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyThread" />
-      <module name="multithread" />
+    <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adapter.AdapterPatternDemo" />
+      <module name="designpattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -939,19 +945,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.MyThread" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test2" />
       <item itemvalue="Application.TestString" />
       <item itemvalue="Application.RandomTest" />
+      <item itemvalue="Application.AdapterPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdapterPatternDemo" />
         <item itemvalue="Application.RandomTest" />
         <item itemvalue="Application.TestString" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.MyThread" />
       </list>
     </recent_temporary>
   </component>
@@ -1004,7 +1010,7 @@
       <workItem from="1515867010779" duration="3722000" />
       <workItem from="1516017491778" duration="1977000" />
       <workItem from="1516203458208" duration="239000" />
-      <workItem from="1708878832608" duration="1929000" />
+      <workItem from="1708878832608" duration="2743000" />
     </task>
     <servers />
   </component>
