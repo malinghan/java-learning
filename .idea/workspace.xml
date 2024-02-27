@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="babf2f1c-95e1-43fd-9f6f-26bc136a9443" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/gc/GCLogAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/gc/GCLogAnalysis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -555,7 +559,7 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/multithread/src/main/java/multithread" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jvm" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -565,13 +569,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jvm" />
       <recent name="$PROJECT_DIR$/multithread/src/main/java/multithread" />
       <recent name="$PROJECT_DIR$/multithread" />
       <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\mlh\IdeaProjects\java-learning\designpattern\src\main\java\proxy\example2" />
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jvm/src/main/java/com/someecho" />
       <recent name="$PROJECT_DIR$/blogs/work/wiki" />
       <recent name="$PROJECT_DIR$/blogs/work" />
     </key>
@@ -579,7 +584,7 @@
       <recent name="multithread.synchronize.test5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AdapterPatternDemo">
+  <component name="RunManager" selected="Application.GCLogAnalysis">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -826,6 +831,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GCLogAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.someecho.gc.GCLogAnalysis" />
+      <module name="jvm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.someecho.gc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.RandomTest" />
       <module name="algorithm" />
@@ -842,20 +861,6 @@
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraylist.Test" />
-      <module name="importnew" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.Test2" />
       <module name="importnew" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -946,18 +951,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test2" />
       <item itemvalue="Application.TestString" />
       <item itemvalue="Application.RandomTest" />
       <item itemvalue="Application.AdapterPatternDemo" />
+      <item itemvalue="Application.GCLogAnalysis" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GCLogAnalysis" />
         <item itemvalue="Application.AdapterPatternDemo" />
         <item itemvalue="Application.RandomTest" />
         <item itemvalue="Application.TestString" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -1011,6 +1016,7 @@
       <workItem from="1516017491778" duration="1977000" />
       <workItem from="1516203458208" duration="239000" />
       <workItem from="1708878832608" duration="2743000" />
+      <workItem from="1708962865599" duration="2476000" />
     </task>
     <servers />
   </component>

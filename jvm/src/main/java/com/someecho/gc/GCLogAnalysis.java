@@ -1,4 +1,4 @@
-package com.someecho;
+package com.someecho.gc;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
