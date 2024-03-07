@@ -5,8 +5,8 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @author someecho <linghan.ma@gmail.com>
  * Created on 2022-03-20
- * 1. 互斥条件：定义2个对象
- * 2. 定义2个线程
+ * 1. 互斥条件：定义2个对象，定义2个锁
+ * 2. 定义2个线程，
  * 3. 循环等待：同时基于 这2个对象，按不同的顺序加锁
  * 4. 不可剥夺、请求保持: while
  */

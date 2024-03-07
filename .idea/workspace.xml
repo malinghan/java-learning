@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="babf2f1c-95e1-43fd-9f6f-26bc136a9443" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt01/node.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt02/node.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt03/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt03/Singleton2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt03/node.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt04/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt06/06.java对异常处理的实现演示.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt07/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt33/MyAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithread/src/main/java/artconcurrentbook/并发编程的艺术.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/gc/GCLogAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/gc/GCLogAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/math/RandomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/math/RandomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/classloader/CustomClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/classloader/CustomClassLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/deadlock/ReentryLockDeadLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/deadlock/ReentryLockDeadLockDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +59,14 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt03/Singleton.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt07/Test.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt03/Singleton2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt04/Test.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/classloader/CustomClassLoader.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt33/MyAgent.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -559,7 +577,7 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/jvm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jvm/src/main/java/com/someecho/bytecode" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -569,11 +587,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jvm/src/main/java/com/someecho/bytecode" />
       <recent name="$PROJECT_DIR$/jvm" />
       <recent name="$PROJECT_DIR$/multithread/src/main/java/multithread" />
       <recent name="$PROJECT_DIR$/multithread" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="C:\Users\mlh\IdeaProjects\java-learning\designpattern\src\main\java\proxy\example2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/jvm/src/main/java/com/someecho" />
@@ -584,7 +602,7 @@
       <recent name="multithread.synchronize.test5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GCLogAnalysis">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -817,13 +835,13 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="adapter.AdapterPatternDemo" />
-      <module name="designpattern" />
+    <configuration name="AtomicIntegerArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithread.atomic.AtomicIntegerArrayTest" />
+      <module name="multithread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="adapter.*" />
+          <option name="PATTERN" value="multithread.atomic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -831,27 +849,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCLogAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.someecho.gc.GCLogAnalysis" />
+    <configuration name="ReentryLockDeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithread.deadlock.ReentryLockDeadLockDemo" />
+      <module name="multithread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithread.deadlock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.someecho.geektime108.chapt03.Singleton2" />
       <module name="jvm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.someecho.gc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.RandomTest" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
+          <option name="PATTERN" value="com.someecho.geektime108.chapt03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -860,12 +878,12 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.Test" />
-      <module name="importnew" />
+      <option name="MAIN_CLASS_NAME" value="com.someecho.geektime108.chapt07.Test" />
+      <module name="jvm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraylist.*" />
+          <option name="PATTERN" value="com.someecho.geektime108.chapt07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -873,10 +891,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestString" />
-      <module name="other" />
+    <configuration name="TestThreadMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithread.base.TestThreadMethod" />
+      <module name="multithread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithread.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -950,19 +974,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.ReentryLockDeadLockDemo" />
+      <item itemvalue="Application.TestThreadMethod" />
+      <item itemvalue="Application.AtomicIntegerArrayTest" />
+      <item itemvalue="Application.Singleton2" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.TestString" />
-      <item itemvalue="Application.RandomTest" />
-      <item itemvalue="Application.AdapterPatternDemo" />
-      <item itemvalue="Application.GCLogAnalysis" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GCLogAnalysis" />
-        <item itemvalue="Application.AdapterPatternDemo" />
-        <item itemvalue="Application.RandomTest" />
-        <item itemvalue="Application.TestString" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Singleton2" />
+        <item itemvalue="Application.AtomicIntegerArrayTest" />
+        <item itemvalue="Application.TestThreadMethod" />
+        <item itemvalue="Application.ReentryLockDeadLockDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -1016,7 +1040,8 @@
       <workItem from="1516017491778" duration="1977000" />
       <workItem from="1516203458208" duration="239000" />
       <workItem from="1708878832608" duration="2743000" />
-      <workItem from="1708962865599" duration="2476000" />
+      <workItem from="1708962865599" duration="3072000" />
+      <workItem from="1709048635009" duration="13516000" />
     </task>
     <servers />
   </component>
@@ -1161,6 +1186,11 @@
           <url>file://$PROJECT_DIR$/designpattern/src/main/java/model_view_controller/Student.java</url>
           <line>5</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/classloader/CustomClassLoader.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/designpattern/src/main/java/visitor/ComputerPartDisplayVisitor.java</url>

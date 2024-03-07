@@ -15,7 +15,8 @@ import java.util.Random;
  *       或者默认当前系统时间的毫秒数作为种子数:Random r1 = new Random();
  *
  */
-public class RandomTest {
+public class
+RandomTest {
     public static void main(String[] args) {
         System.out.println("Math.random()="+Math.random());//是一个double类型的值，区间为[0.0,1.0）
         int num=(int)(Math.random()*3);// 注意不要写成(int)Math.random()*3，这个结果为0，因为先执行了强制转换

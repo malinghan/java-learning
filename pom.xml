@@ -48,9 +48,6 @@
         <module>jvm</module>
         <module>container</module>
         <module>io</module>
-        <module>blogs</module>
-        <module>importnew</module>
-        <module>other</module>
     </modules>
 
     <dependencyManagement>
