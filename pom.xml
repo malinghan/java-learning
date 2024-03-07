@@ -46,8 +46,7 @@
         <module>designpattern</module>
         <module>algorithm</module>
         <module>jvm</module>
-        <module>container</module>
-        <module>io</module>
+        <module>core</module>
     </modules>
 
     <dependencyManagement>

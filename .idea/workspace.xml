@@ -5,21 +5,278 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="babf2f1c-95e1-43fd-9f6f-26bc136a9443" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt01/node.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt02/node.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt03/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt03/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt03/node.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt04/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt06/06.java对异常处理的实现演示.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt07/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt33/MyAgent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithread/src/main/java/artconcurrentbook/并发编程的艺术.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/META-INF/native-image/cn.malinghan/core/native-image.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/META-INF/native-image/cn.malinghan/core/reflect-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/META-INF/native-image/cn.malinghan/core/resource-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/cn/malinghan/java/core/CoreApplication$$SpringCGLIB$$0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/cn/malinghan/java/core/CoreApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/cn/malinghan/java/core/CoreApplication__ApplicationContextInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/cn/malinghan/java/core/CoreApplication__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/cn/malinghan/java/core/CoreApplication__BeanFactoryRegistrations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/aop/framework/autoproxy/InfrastructureAdvisorAutoProxyCreator__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/AutoConfigurationPackages__BeanDefinitions$BasePackages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/AutoConfigurationPackages__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/aop/AopAutoConfiguration__BeanDefinitions$ClassProxyingConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/aop/AopAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/availability/ApplicationAvailabilityAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/context/ConfigurationPropertiesAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/context/LifecycleAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/context/LifecycleProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/context/PropertyPlaceholderAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/http/HttpMessageConvertersAutoConfiguration__BeanDefinitions$StringHttpMessageConverterConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/http/HttpMessageConvertersAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/http/JacksonHttpMessageConvertersConfiguration__BeanDefinitions$MappingJackson2HttpMessageConverterConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/http/JacksonHttpMessageConvertersConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/info/ProjectInfoAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/info/ProjectInfoProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/jackson/JacksonAutoConfiguration__BeanDefinitions$Jackson2ObjectMapperBuilderCustomizerConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/jackson/JacksonAutoConfiguration__BeanDefinitions$JacksonMixinConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/jackson/JacksonAutoConfiguration__BeanDefinitions$JacksonObjectMapperBuilderConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/jackson/JacksonAutoConfiguration__BeanDefinitions$JacksonObjectMapperConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/jackson/JacksonAutoConfiguration__BeanDefinitions$ParameterNamesModuleConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/jackson/JacksonAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/jackson/JacksonProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/sql/init/SqlInitializationAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/sql/init/SqlInitializationProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/ssl/SslAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/ssl/SslProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskExecutionAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskExecutionProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskExecutorConfigurations__BeanDefinitions$SimpleAsyncTaskExecutorBuilderConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskExecutorConfigurations__BeanDefinitions$TaskExecutorBuilderConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskExecutorConfigurations__BeanDefinitions$TaskExecutorConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskExecutorConfigurations__BeanDefinitions$ThreadPoolTaskExecutorBuilderConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskExecutorConfigurations__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskSchedulingAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskSchedulingConfigurations__BeanDefinitions$SimpleAsyncTaskSchedulerBuilderConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskSchedulingConfigurations__BeanDefinitions$TaskSchedulerBuilderConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskSchedulingConfigurations__BeanDefinitions$ThreadPoolTaskSchedulerBuilderConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskSchedulingConfigurations__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/task/TaskSchedulingProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/ServerProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/WebProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/client/RestClientAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/client/RestTemplateAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/embedded/EmbeddedWebServerFactoryCustomizerAutoConfiguration__BeanDefinitions$TomcatWebServerFactoryCustomizerConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/embedded/EmbeddedWebServerFactoryCustomizerAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/DispatcherServletAutoConfiguration__BeanDefinitions$DispatcherServletConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/DispatcherServletAutoConfiguration__BeanDefinitions$DispatcherServletRegistrationConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/DispatcherServletAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/HttpEncodingAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/MultipartAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/MultipartProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/ServletWebServerFactoryAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/ServletWebServerFactoryConfiguration__BeanDefinitions$EmbeddedTomcat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/ServletWebServerFactoryConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration_EnableWebMvcConfiguration__Autowiring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration__BeanDefinitions$EnableWebMvcConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration__BeanDefinitions$WebMvcAutoConfigurationAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/WebMvcProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/error/ErrorMvcAutoConfiguration__BeanDefinitions$DefaultErrorViewResolverConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/error/ErrorMvcAutoConfiguration__BeanDefinitions$WhitelabelErrorViewConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/web/servlet/error/ErrorMvcAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/websocket/servlet/WebSocketServletAutoConfiguration__BeanDefinitions$TomcatWebSocketConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/autoconfigure/websocket/servlet/WebSocketServletAutoConfiguration__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/context/properties/BoundConfigurationProperties__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/context/properties/ConfigurationPropertiesBinder__BeanDefinitions$ConfigurationPropertiesBinderFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/context/properties/ConfigurationPropertiesBinder__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/context/properties/ConfigurationPropertiesBindingPostProcessor__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/jackson/JsonMixinModuleEntries__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/sql/init/dependency/DatabaseInitializationDependencyConfigurer__BeanDefinitions$DependsOnDatabaseInitializationPostProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/sql/init/dependency/DatabaseInitializationDependencyConfigurer__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/validation/beanvalidation/MethodValidationExcludeFilter__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/web/server/ErrorPageRegistrarBeanPostProcessor__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/boot/web/server/WebServerFactoryCustomizerBeanPostProcessor__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/context/event/DefaultEventListenerFactory__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/context/event/EventListenerMethodProcessor__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/classes/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport__BeanDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/core-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/core-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/classes/cn/malinghan/java/core/CoreApplication$$SpringCGLIB$$0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/resources/META-INF/native-image/cn.malinghan/core/native-image.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/resources/META-INF/native-image/cn.malinghan/core/reflect-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/resources/META-INF/native-image/cn.malinghan/core/resource-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/cn/malinghan/java/core/CoreApplication__ApplicationContextInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/cn/malinghan/java/core/CoreApplication__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/cn/malinghan/java/core/CoreApplication__BeanFactoryRegistrations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/aop/framework/autoproxy/InfrastructureAdvisorAutoProxyCreator__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/AutoConfigurationPackages__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/aop/AopAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/availability/ApplicationAvailabilityAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/context/ConfigurationPropertiesAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/context/LifecycleAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/context/LifecycleProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/context/PropertyPlaceholderAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/http/HttpMessageConvertersAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/http/JacksonHttpMessageConvertersConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/info/ProjectInfoAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/info/ProjectInfoProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/jackson/JacksonAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/jackson/JacksonProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/sql/init/SqlInitializationAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/sql/init/SqlInitializationProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/ssl/SslAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/ssl/SslProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/task/TaskExecutionAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/task/TaskExecutionProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/task/TaskExecutorConfigurations__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/task/TaskSchedulingAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/task/TaskSchedulingConfigurations__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/task/TaskSchedulingProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/ServerProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/WebProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/client/RestClientAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/client/RestTemplateAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/embedded/EmbeddedWebServerFactoryCustomizerAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/servlet/DispatcherServletAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/servlet/HttpEncodingAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/servlet/MultipartAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/servlet/MultipartProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/servlet/ServletWebServerFactoryAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/servlet/ServletWebServerFactoryConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration_EnableWebMvcConfiguration__Autowiring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/servlet/WebMvcProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/web/servlet/error/ErrorMvcAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/autoconfigure/websocket/servlet/WebSocketServletAutoConfiguration__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/context/properties/BoundConfigurationProperties__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/context/properties/ConfigurationPropertiesBinder__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/context/properties/ConfigurationPropertiesBindingPostProcessor__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/jackson/JsonMixinModuleEntries__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/sql/init/dependency/DatabaseInitializationDependencyConfigurer__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/validation/beanvalidation/MethodValidationExcludeFilter__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/web/server/ErrorPageRegistrarBeanPostProcessor__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/boot/web/server/WebServerFactoryCustomizerBeanPostProcessor__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/context/event/DefaultEventListenerFactory__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/context/event/EventListenerMethodProcessor__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/spring-aot/main/sources/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport__BeanDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/surefire-reports/TEST-cn.malinghan.java.core.CoreApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/surefire-reports/cn.malinghan.java.core.CoreApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/target/test-classes/cn/malinghan/java/core/CoreApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithread/target/classes/artconcurrentbook/并发编程的艺术.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithread/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithread/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/math/RandomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/math/RandomTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/classloader/CustomClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/classloader/CustomClassLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multithread/src/main/java/multithread/deadlock/ReentryLockDeadLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/src/main/java/multithread/deadlock/ReentryLockDeadLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/container/container.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/container/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/container/profiles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designpattern/designpattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designpattern/designpattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io/io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/bytecode/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Default/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/someecho/bytecode/Hello.xlass" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Default/Hello.xlass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/a2022/Foo.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/a2022/Foo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/a2022/FooBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/a2022/FooBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicIntegerArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicIntegerArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicIntegerFieldUpdaterTest$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicIntegerFieldUpdaterTest$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicIntegerFieldUpdaterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicIntegerFieldUpdaterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicIntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicIntegerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicReferenceTest$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicReferenceTest$User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/atomic/AtomicReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/Daemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/Daemon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/InterruptExceptionThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/InterruptExceptionThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/InterruptedThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/InterruptedThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/TestThreadMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/TestThreadMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/a/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/a/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/a/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/a/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/b/NotShareDataThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/b/NotShareDataThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/b/SharedThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/b/SharedThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/c/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/c/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/c/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/c/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/example01.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/example01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/sameNum/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/sameNum/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/threadsafe/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/threadsafe/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/threadsafe/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/threadsafe/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/threadsafe/extthread/ALogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/threadsafe/extthread/ALogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/threadsafe/extthread/BLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/threadsafe/extthread/BLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/base/useReturnInterrupt.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/base/useReturnInterrupt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/blockingqueue/BlockingQueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/blockingqueue/BlockingQueueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/blockingqueue/MyArrayBlockingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/blockingqueue/MyArrayBlockingQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/blockingqueue/MyLinkedBlockingQueue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/blockingqueue/MyLinkedBlockingQueue$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/blockingqueue/MyLinkedBlockingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/blockingqueue/MyLinkedBlockingQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/deadlock/ReentryLockDeadLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/deadlock/ReentryLockDeadLockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/deadlock/SynchronizedDeadLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/deadlock/SynchronizedDeadLockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/deadlock/WaitNotifyDeadLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/deadlock/WaitNotifyDeadLockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/exchanger/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/exchanger/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/exchanger/FillAndEmpty$DataBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/exchanger/FillAndEmpty$DataBuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/exchanger/FillAndEmpty$EmptyingLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/exchanger/FillAndEmpty$EmptyingLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/exchanger/FillAndEmpty$FillingLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/exchanger/FillAndEmpty$FillingLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/exchanger/FillAndEmpty.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/exchanger/FillAndEmpty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/finaltest/FinalExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/finaltest/FinalExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/jmm/SynchronizedExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/jmm/SynchronizedExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/AtomicIntegerFoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/AtomicIntegerFoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/BlockingQueueFoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/BlockingQueueFoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/CountDownLatchFoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/CountDownLatchFoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/LockFoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/LockFoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/SemaphoreFoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/SemaphoreFoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/SynchronizedFoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/SynchronizedFoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/VolatileFoo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1114/VolatileFoo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1115/CyclicBarrierFooBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1115/CyclicBarrierFooBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1115/SemaphoreFooBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1115/SemaphoreFooBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1115/SynchronizedFooBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1115/SynchronizedFooBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1195/FooBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1195/FooBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1195/FooBarSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/leetcode/leetcode1195/FooBarSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/locks/BooleanLatch$Sync.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/locks/BooleanLatch$Sync.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/locks/BooleanLatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/locks/BooleanLatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/locks/Mutex$Sync.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/locks/Mutex$Sync.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/locks/Mutex.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/locks/Mutex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test1/HasSelfPrivateNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test1/HasSelfPrivateNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test1/Run_local.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test1/Run_local.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test1/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test1/ThreadA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test1/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test1/ThreadB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test2/HasSelfPrivateNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test2/HasSelfPrivateNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test2/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test2/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test2/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test2/ThreadA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test2/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test2/ThreadB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test3/HasSelfPrivateNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test3/HasSelfPrivateNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test3/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test3/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test3/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test3/ThreadA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test3/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test3/ThreadB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/MyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/MyObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/ThreadA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test4/ThreadB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test5/PublicVar.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test5/PublicVar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test5/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test5/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test5/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test5/ThreadA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test6/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test6/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test6/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test6/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test6/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test6/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test7/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test7/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test7/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test7/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test7/Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test7/Sub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test8/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test8/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test8/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test8/MyThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test8/MyThreadB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test8/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test8/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test8/Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test8/Sub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test9/CommonUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test9/CommonUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test9/MyThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test9/MyThread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test9/MyThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test9/MyThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test9/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test9/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test9/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/synchronize/test9/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/volatiles/VolatileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/volatiles/VolatileDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/volatiles/VolatileFeaturesExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/volatiles/VolatileFeaturesExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithread/target/classes/multithread/volatiles/VolatileFeaturesExample2.class" beforeDir="false" afterPath="$PROJECT_DIR$/multithread/target/classes/multithread/volatiles/VolatileFeaturesExample2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +316,6 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt03/Singleton.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt07/Test.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt03/Singleton2.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt04/Test.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/classloader/CustomClassLoader.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/geektime108/chapt33/MyAgent.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -133,6 +382,13 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState />
@@ -294,6 +550,9 @@
         </expanded-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -570,6 +829,8 @@
   <component name="PropertiesComponent">
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="plugiin&#9;PSI&#9;JAVA://sun.plugin.net.proxy.PluginProxyInfo" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -587,11 +848,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/jvm/src/main/java/com/someecho/bytecode" />
       <recent name="$PROJECT_DIR$/jvm" />
+      <recent name="$PROJECT_DIR$/jvm/src/main/java/cn/malinghan/jvm" />
+      <recent name="$PROJECT_DIR$/jvm/src/main/java/com/someecho/bytecode" />
       <recent name="$PROJECT_DIR$/multithread/src/main/java/multithread" />
       <recent name="$PROJECT_DIR$/multithread" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/jvm/src/main/java/com/someecho" />
@@ -602,7 +863,7 @@
       <recent name="multithread.synchronize.test5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -835,76 +1096,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="AtomicIntegerArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithread.atomic.AtomicIntegerArrayTest" />
-      <module name="multithread" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multithread.atomic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReentryLockDeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithread.deadlock.ReentryLockDeadLockDemo" />
-      <module name="multithread" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multithread.deadlock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Singleton2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.someecho.geektime108.chapt03.Singleton2" />
-      <module name="jvm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.someecho.geektime108.chapt03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.someecho.geektime108.chapt07.Test" />
-      <module name="jvm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.someecho.geektime108.chapt07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestThreadMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithread.base.TestThreadMethod" />
-      <module name="multithread" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multithread.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -973,22 +1164,6 @@
       <envs />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Application.ReentryLockDeadLockDemo" />
-      <item itemvalue="Application.TestThreadMethod" />
-      <item itemvalue="Application.AtomicIntegerArrayTest" />
-      <item itemvalue="Application.Singleton2" />
-      <item itemvalue="Application.Test" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Singleton2" />
-        <item itemvalue="Application.AtomicIntegerArrayTest" />
-        <item itemvalue="Application.TestThreadMethod" />
-        <item itemvalue="Application.ReentryLockDeadLockDemo" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SFStoredExecutionPersistentComponent">
     <executions>
@@ -1042,6 +1217,7 @@
       <workItem from="1708878832608" duration="2743000" />
       <workItem from="1708962865599" duration="3072000" />
       <workItem from="1709048635009" duration="13516000" />
+      <workItem from="1709833424560" duration="337000" />
     </task>
     <servers />
   </component>
@@ -1188,7 +1364,7 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jvm/src/main/java/com/someecho/classloader/CustomClassLoader.java</url>
+          <url>file://$PROJECT_DIR$/jvm111/src/main/java/com/someecho/classloader/CustomClassLoader.java</url>
           <line>20</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
